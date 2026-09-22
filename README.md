@@ -1,4 +1,4 @@
-# AWS DevOps CICD Pipeline
+ DevOps CICD Pipeline
 
 In This Project, we are Developing and Deploying a video streaming application on EC2 using Docker and AWS Developers Tools.
 
